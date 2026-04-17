@@ -88,4 +88,10 @@ Key measures created using DAX (Data Analysis Expressions):
 - Strengthen strategy in low-performing regions
 - Target high-value customer segments
 # Dashboard Preview
+<img width="1313" height="738" alt="Screenshot 2026-03-31 183341" src="https://github.com/user-attachments/assets/fc592dc7-d4f3-4f03-afd2-6cea28758ec6" />
+
+
+
+<img width="1324" height="733" alt="Screenshot 2026-03-31 183416" src="https://github.com/user-attachments/assets/285fc69c-30da-450f-88c9-1e1a06afe0cd" />
+
 
